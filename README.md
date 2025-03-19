@@ -2,4 +2,4 @@ A simulation about cubes who need to get in the green rectangle in order to surv
 
 Notes : i made this script a while ago, don't be surprise if you get any errors while closing but it'll probably work fine.
 
-requirements : pygame
+requirements : pygame, numpy
